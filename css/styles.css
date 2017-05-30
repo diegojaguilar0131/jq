@@ -1,0 +1,15 @@
+.manshowing {
+  display: none;
+}
+
+.manshowing {
+  display: none;
+}
+.walrusclick {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.walrusclick:hover {
+  text-decoration: underline;
+}
